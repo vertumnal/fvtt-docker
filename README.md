@@ -70,7 +70,7 @@ wget https://raw.githubusercontent.com/BenjaminPrice/fvtt-docker/master/docker-c
 ### Step 2 - Download the Foundry VTT Zip File
 
 - Navigate to your User Profile page and find your Software Download Links on your license page.
-- Download the `Linux` version.
+- Download the `Node.js` version.
 - Save it to the same directory as the `docker-compose.yaml` file from the previous step.
 
 ### Step 3 - Create your data directory
