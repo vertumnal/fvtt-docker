@@ -17,4 +17,4 @@ mv unpacked/* resources/app/
 
 echo "Starting node..."
 cd resources/app
-exec node main.mjs --dataPath=/data/foundryvtt
+exec node resources/app/main.mjs --dataPath=/data/foundryvtt
